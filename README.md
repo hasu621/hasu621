@@ -22,10 +22,6 @@
 ###  FRAMES (Facial Recognition & Attendance Monitoring with Embedded System)
 *Thesis / Capstone Project* |  [Vercel Link](https://frames-smartattendance.vercel.app/)
 
-<p align="center">
-  <img src="./demo.gif" width="600" alt="FRAMES System Architecture">
-</p>
-
 *   **The Run-Down:** Automated attendance system combining software logic with embedded hardware.
 *   **Stack:** React.js, Python, Express.js (hosted in Aiven), Raspberry Pi, OpenCV, MediaPipe, Web Interface.
 *   **Engineering Highlight:** Optimizing responsive UI components and ensuring stable real-time data synchronization.
@@ -42,7 +38,17 @@
 ###  Full-Stack E-Commerce Platform
 *Web Application* |  *Environment: Localhost*
 
-[ 🖼️ Put E-Commerce Dashboard Screenshot Here ]
+<p align="center">
+  <img src="./Imagess/screenshot20260604174323.png" width="600" alt="7-Evelyn Landing Page">
+</p>
+
+<p align="center">
+  <img src="./Imagess/screenshot20260604174334.png" width="600" alt="7-Evelyn Shopping Page">
+</p>
+
+<p align="center">
+  <img src="./Imagess/screenshot20260604174351.png" width="600" alt="7-Evelyn Membership Page">
+</p>
 
 *   **The Run-Down:** Web application featuring full product catalogs, a dynamic state-managed shopping cart, and user checkout.
 *   **Stack:** React.js, MySQL.
@@ -59,8 +65,18 @@
 
 ##  Industry Experience
 
-**NexVision Innovations Inc.**  
+**NexVision Innovations Inc.** *[Facebook](https://www.facebook.com/share/1HGdb33a4J/)*
+
 *Front End Developer Intern (Feb 2026 – May 2026)*
+
+<p align="center">
+  <img src="./Imagess/screenshot20260428172244.png" width="600" alt="BeautyConnect Landing Page">
+</p>
+
+<p align="center">
+  <img src="./Imagess/screenshot20260428172303.png" width="600" alt="BeautyConnect Login/Signup Page">
+</p>
+
 *   Rendered production-ready frontend features using **React, TypeScript, and Tailwind CSS**.
 *   Standardized UI/UX consistency across client, admin, and vendor dashboard portals.
 *   Optimized layout mobile responsiveness and web data performance constraints.
@@ -74,10 +90,5 @@
 *   **Active Member:** GDGOC TUPM | TUPM DOST Scholars Club
 
 ---
-
-###  GitHub Stats
-[ ⚡ Put your real-time GitHub Stats card link here: ]
-[ https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical ]
-
 
 ✨ *Building scalable web applications, one sprint at a time.*
