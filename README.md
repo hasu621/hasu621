@@ -17,6 +17,26 @@
 
 <hr>
 
+##  Industry Experience
+
+**NexVision Innovations Inc.** *[Facebook](https://www.facebook.com/share/1HGdb33a4J/)*
+
+*Front End Developer Intern (Feb 2026 – May 2026)*
+
+<p align="center">
+  <img src="./Imagess/screenshot20260428172244.png" width="600" alt="BeautyConnect Landing Page">
+</p>
+
+<p align="center">
+  <img src="./Imagess/screenshot20260428172303.png" width="600" alt="BeautyConnect Login/Signup Page">
+</p>
+
+*   Rendered production-ready frontend features using **React, TypeScript, and Tailwind CSS**.
+*   Standardized UI/UX consistency across client, admin, and vendor dashboard portals.
+*   Optimized layout mobile responsiveness and web data performance constraints.
+
+---
+
 ##  Featured Projects
 
 ###  FRAMES (Facial Recognition & Attendance Monitoring with Embedded System)
@@ -28,8 +48,6 @@
 
 ###  Simple Social Media Website
 *Full-Stack Web Application* |  [Vercel Link](https://my-dei-mu.vercel.app/)
-
-[ 🖼️ Put Social App Screenshot Here ]
 
 *   **The Run-Down:** A social networking platform enabling seamless user interaction and real-time feed updates.
 *   **Features:** Posting, Reacting, Messaging, Friends, Comments, and Reposting.
@@ -65,25 +83,6 @@
 
 ---
 
-##  Industry Experience
-
-**NexVision Innovations Inc.** *[Facebook](https://www.facebook.com/share/1HGdb33a4J/)*
-
-*Front End Developer Intern (Feb 2026 – May 2026)*
-
-<p align="center">
-  <img src="./Imagess/screenshot20260428172244.png" width="600" alt="BeautyConnect Landing Page">
-</p>
-
-<p align="center">
-  <img src="./Imagess/screenshot20260428172303.png" width="600" alt="BeautyConnect Login/Signup Page">
-</p>
-
-*   Rendered production-ready frontend features using **React, TypeScript, and Tailwind CSS**.
-*   Standardized UI/UX consistency across client, admin, and vendor dashboard portals.
-*   Optimized layout mobile responsiveness and web data performance constraints.
-
----
 
 ##  Education & Affiliations
 
