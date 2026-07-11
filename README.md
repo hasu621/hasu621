@@ -27,7 +27,7 @@
 *   **Engineering Highlight:** Optimizing responsive UI components and ensuring stable real-time data synchronization.
 
 ###  Simple Social Media Website
-*Full-Stack Web Application* |  *Environment: Localhost*
+*Full-Stack Web Application* |  [Vercel Link](https://my-dei-mu.vercel.app/)
 
 [ 🖼️ Put Social App Screenshot Here ]
 
